@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         Log.e("MainActivity", "开始约会");
         Log.e("MainActivity", "开始相爱");
         Log.e("MainActivity", "开始争吵");
+        Log.e("MainActivity", "开始分手");
 
 
 
