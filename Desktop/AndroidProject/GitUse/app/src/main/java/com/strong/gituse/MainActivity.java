@@ -17,7 +17,5 @@ public class MainActivity extends AppCompatActivity {
         Log.e("MainActivity", "开始争吵");
         Log.e("MainActivity", "开始分手");
 
-
-
     }
 }
