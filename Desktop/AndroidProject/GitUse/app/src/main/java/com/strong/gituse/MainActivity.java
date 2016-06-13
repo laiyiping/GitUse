@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         Log.e("MainActivity", "感情加固");
         Log.e("MainActivity", "婚姻殿堂");
         Log.e("MainActivity", "快乐生活");
+        Log.e("MainActivity", "三年抱俩");
 
 
 
