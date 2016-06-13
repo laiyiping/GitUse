@@ -12,6 +12,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.e("MainActivity", "添加好友");
         Log.e("MainActivity", "开始聊天");
+        Log.e("MainActivity", "开始约会");
+
 
     }
 }
