@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
         Log.e("MainActivity", "添加好友");
         Log.e("MainActivity", "开始聊天");
         Log.e("MainActivity", "开始约会");
+        Log.e("MainActivity", "开始相爱");
+
 
 
     }
